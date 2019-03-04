@@ -1,0 +1,5 @@
+# pgdummy extension
+comment = 'pg dummy extension'
+default_version = '1.0.0'
+module_pathname = '$libdir/pgdummy'
+relocatable = true
